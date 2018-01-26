@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Ser Veresta\AndroidStudioProjects\BasicWidget1-master-39736cdfc7bb9376e851f1eea8e1a89717d1f4a8\BasicWidget1.iml" filepath="C:\Users\Ser Veresta\AndroidStudioProjects\BasicWidget1-master-39736cdfc7bb9376e851f1eea8e1a89717d1f4a8\BasicWidget1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicWidgetModul5.iml" filepath="$PROJECT_DIR$/BasicWidgetModul5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
